@@ -2,8 +2,6 @@
 
 This project is a data analysis of hotel booking patterns using python and Jupyter Notebook. It explores key metrics like booking trends, cancellation rates, guest demographics, and more. The analysis helps in understanding customer behavior and identifying areas to improve hotel operations.
 
-## 📁 Project Structure
-
 ## 🧠 Key Features
 
 - Exploratory Data Analysis (EDA) of hotel booking data
